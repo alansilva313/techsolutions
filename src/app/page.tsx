@@ -1,3 +1,4 @@
+import Footer from '@/components/footer'
 import Header from '@/components/header'
 import Secao1 from '@/components/secao1'
 import Secao2 from '@/components/secao2'
@@ -12,6 +13,11 @@ export default function Home() {
      <Secao1 />
 
      <Secao2 />
+
+
+
+
+     <Footer />
    </div>
    </>
   )
